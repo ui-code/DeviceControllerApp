@@ -11,7 +11,7 @@ https://twitter.com/theuicode
 
 UI Design: https://dribbble.com/shots/6269637-Lighting-Dimmer/attachments/6269637-Lighting-Dimmer?mode=media
 
-Source code: https://github.com/ui-code/DeviceControllerApp
+YouTube tutorial for this code: https://youtu.be/CZIiIdO_MU0
 
 Tailwind CSS:
 https://tailwindcss.com/docs
